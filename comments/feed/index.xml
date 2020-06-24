@@ -10,7 +10,7 @@
 	Reacties voor De Corona App	</title>
 	<atom:link href="https://bertthe.github.io/CoronaApp/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bertthe.github.io/CoronaApp</link>
-	<description>En nog een WordPress site</description>
+	<description>Veilig. Samen.</description>
 	<lastBuildDate>Wed, 24 Jun 2020 09:36:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Reactie op Hallo wereld. door Een WordPress commentator		</title>
-		<link>https://bertthe.github.io/CoronaApp/2020/06/24/hallo-wereld/#comment-1</link>
+		<link>https://bertthe.github.io/CoronaApp/hallo-wereld/#comment-1</link>
 
 		<dc:creator><![CDATA[Een WordPress commentator]]></dc:creator>
 		<pubDate>Wed, 24 Jun 2020 09:36:13 +0000</pubDate>
